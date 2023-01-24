@@ -3,6 +3,9 @@ All your important applications at your fingertips.
 
 ![Applibrary](https://i.imgur.com/tTcw4n2.png "AppLibrary")
 
+## **Install**
+Install the latest version of AppLibrary [here](https://github.com/jvietman/AppLibrary/releases/latest).
+
 ## **Usage**
 ### Add app
 Click on the plus button to add an application. Type in all the information about the app, select a banner (by clicking on the big right image button), select an executable (can be a .py, .pyw or .exe file) and then press on create to add the app. If there is a preset for the application, you can just import that preset. You can find presets [here](https://github.com/jvietman/AppLibrary/tree/main/presets). Now you can see your app in the list.
