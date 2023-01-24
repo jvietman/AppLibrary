@@ -5,7 +5,7 @@ All your important applications at your fingertips.
 
 ## **Usage**
 ### Add app
-Click on the plus button to add an application. Type in all the information about the app, select a banner (by clicking on the big right image button), select an executable (can be a .py, .pyw or .exe file) and then press on create to add the app. If there is a preset for the application, you can just import that preset. You can find presets here. Now you can see your app in the list.
+Click on the plus button to add an application. Type in all the information about the app, select a banner (by clicking on the big right image button), select an executable (can be a .py, .pyw or .exe file) and then press on create to add the app. If there is a preset for the application, you can just import that preset. You can find presets [here](https://github.com/jvietman/AppLibrary/tree/main/presets). Now you can see your app in the list.
 
 ### Start app
 You can start an application by just left clicking on it. When you close the app, the AppLibrary with automatically open again.
