@@ -1,9 +1,8 @@
 # **AppLibrary**
 All your important applications at your fingertips.
 
-## Install
-The download for AppLibrary is here:
-### **[Latest Version](https://github.com/jvietman/AppLibrary/releases/latest)**
+## Download
+[Here](https://github.com/jvietman/AppLibrary/releases/latest) is the download for AppLibrary.
 
 ## **Usage**
 ### Add app
