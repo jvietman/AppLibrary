@@ -1,9 +1,9 @@
 # **AppLibrary**
 All your important applications at your fingertips.
 
-### **Download: [Here](https://github.com/jvietman/AppLibrary/releases/latest)**
-
-![Applibrary](https://i.imgur.com/tTcw4n2.png "AppLibrary")
+## Install
+The download for AppLibrary is here:
+### **[Latest Version](https://github.com/jvietman/AppLibrary/releases/latest)**
 
 ## **Usage**
 ### Add app
@@ -19,6 +19,7 @@ By clicking with the right mouse button on an application you can open a new win
 The about page and the help page can be opened by pressing the escape key on your keyboard.
 
 ## **Screenshots**
+![Applibrary](https://i.imgur.com/tTcw4n2.png "AppLibrary")
 ![Applibrary](https://i.imgur.com/dFhp96y.png "AppLibrary")
 ![Applibrary](https://i.imgur.com/ll7W0mH.png "AppLibrary")
 ![Applibrary](https://i.imgur.com/Zv5TrJ3.png "AppLibrary")
