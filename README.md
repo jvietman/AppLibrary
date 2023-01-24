@@ -1,10 +1,9 @@
 # **AppLibrary**
 All your important applications at your fingertips.
 
-![Applibrary](https://i.imgur.com/tTcw4n2.png "AppLibrary")
+#### **The install for the latest version of AppLibrary is [here](https://github.com/jvietman/AppLibrary/releases/latest).**
 
-## **Installation**
-Install the latest version of AppLibrary [here](https://github.com/jvietman/AppLibrary/releases/latest).
+![Applibrary](https://i.imgur.com/tTcw4n2.png "AppLibrary")
 
 ## **Usage**
 ### Add app
