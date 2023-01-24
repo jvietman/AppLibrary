@@ -3,7 +3,7 @@ All your important applications at your fingertips.
 
 ![Applibrary](https://i.imgur.com/tTcw4n2.png "AppLibrary")
 
-## **Install**
+## **Installation**
 Install the latest version of AppLibrary [here](https://github.com/jvietman/AppLibrary/releases/latest).
 
 ## **Usage**
