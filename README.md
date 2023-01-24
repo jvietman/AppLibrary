@@ -19,4 +19,4 @@ The about page and the help page can be opened by pressing the escape key on you
 ## **Screenshots**
 ![Applibrary](https://i.imgur.com/JIBN19f.png "AppLibrary")
 ![Applibrary](https://i.imgur.com/xN82LNT.png "AppLibrary")
-![Applibrary](https://i.imgur.com/WprSvVw.png "AppLibrary")
+![Applibrary](https://i.imgur.com/Qs87AK8.png "AppLibrary")
