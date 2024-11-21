@@ -2,5 +2,9 @@
     {
         "name": "AppLibrary",
         "clone": "https://github.com/jvietman/cashout.git"
+    },
+    {
+        "name": "Test",
+        "clone": ""
     }
 ]
